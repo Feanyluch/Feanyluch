@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Oluwadamilare.
-## I'm a frontend developer 😄 from Nigeria 🏳️
+## I'm a frontend developer from Nigeria 😄
 ## Skills:
 - ⚛️ React
 - :atom: JavaScript
