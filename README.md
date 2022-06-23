@@ -13,7 +13,7 @@
 
 ## About me:
 - 🌱 I’m currently learning React js .
-- ⌚ Working towards becoming a full Stack developer (MERN).
+- ⌚ I'm working towards becoming a full Stack developer (MERN).
 - 💬 Ask me about HTML, CSS and JavaScript.
 
 ## Links:
