@@ -13,7 +13,7 @@
 
 ## About me:
 - 🌱 Reactjs Lover :)
-- ⌚ I'm working towards becoming a full Stack developer (MERN).
+- ⌚ I'm working towards becoming a full Stack developer (MERN stack).
 - 💬 Ask me about HTML, CSS, Python, TypeScript, and JavaScript.
 
 ## Links:
