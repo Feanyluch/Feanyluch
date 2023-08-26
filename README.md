@@ -12,7 +12,7 @@
 
 
 ## About me:
-- 🌱 Reactjs Lover :)
+- 🌱 Nextjs Lover :)
 - ⌚ I'm working towards becoming a full Stack developer (MERN stack).
 - 💬 Ask me about HTML, CSS, JavaScript, Python, TypeScript, Reactjs, Nextjs, Redux.
 
