@@ -13,7 +13,7 @@
 
 ## About me:
 - 🌱 Nextjs Lover :)
-- ⌚ I'm working towards becoming a full Stack developer (MERN stack).
+- ⌚ I'm working towards becoming a Full Stack Engineer (MERN stack).
 - 💬 Ask me about HTML, CSS, JavaScript, TypeScript, Reactjs, Nextjs, Redux toolkit.
 
 ## Links:
